@@ -8,7 +8,7 @@ The program has six main functions
 ### mintdegen
 The mintdegen function adds tokens to the balance of a specified address.
 ### burndegen
-The burn function removes tokens from the balance.
+The burndegen function removes tokens from the balance.
 ### transferdegen
 The transferdegen function transfers a specified ammount of tokens to a specified address.
 ### checkbalance
